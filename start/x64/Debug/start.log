@@ -1,0 +1,5 @@
+﻿  start.cpp
+D:\c++\student system\start\start\service.cpp(76,1): warning C4715: 'CourseServiceImp::AddCourse': not all control paths return a value
+D:\c++\student system\start\start\service.cpp(33,1): warning C4715: 'TeacherServiceImp::AddTeacher': not all control paths return a value
+D:\c++\student system\start\start\service.cpp(118,1): warning C4715: 'StudentServiceImp::AddStudent': not all control paths return a value
+  start.vcxproj -> D:\c++\student system\start\x64\Debug\start.exe
